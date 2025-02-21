@@ -82,7 +82,7 @@
 
 <h3 align="center">Recent Activity:</h3>
 <p align="center">
-  <a href="https://github.com/SoumyaDeepSaha1200"><img src="https://activity-graph.herokuapp.com/graph?username=SoumyaDeepSaha1200&theme=react-dark" alt="Recent Activity" /></a>
+  <a href="https://github.com/asto329"><img src="https://activity-graph.herokuapp.com/graph?username=astoi329&theme=react-dark" alt="Recent Activity" /></a>
 </p>
 
 <h3 align="center">Contribution Graph:</h3>
