@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact: I like to keep my night shift activated 24 x 7
 
+- 🧑‍💻 visit my portfolio site :
+
 
 <br/>  
 
@@ -80,7 +82,7 @@
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/RishavAnandDev" target="_blank">
+<a href="https://instagram.com/srikanta_nayek" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -90,7 +92,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=asto329&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
