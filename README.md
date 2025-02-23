@@ -17,11 +17,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/srikanta-nayek-87b446259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/srikanta.nayek.963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-
-
   <a href="https://www.instagram.com/srikanta_nayek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-
-
   <a 
 href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
