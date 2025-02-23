@@ -63,21 +63,11 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
   <strong>✨ Notable Projects:</strong><br>
-  /*- <a href="https://github.com/SoumyaDeepSaha1200/iCube-Computer-Sales-and-Services" target="_blank">iCube Computer Sales and Services</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/TutorEase" target="_blank">TutorEase Education and Learning</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Cheating-Detention" target="_blank">Cheating Detention</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Jervis" target="_blank">Jervis</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/YourOtherProject" target="_blank">Royal Banquet Hall</a>
-  - <a href="https://github.com/SoumyaDeepSaha1200/YourOtherProject" target="_blank">Programming Solution</a>
-  - <a href="https://github.com/SoumyaDeepSaha1200/YourOtherProject" target="_blank">School Management System</a>*/
+
 </p>
 
 <h3 align="left">Achievements & Certifications:</h3>
-/*<ul>
-  <li>🔹 <a href="https://www.hackerrank.com/certificates/abc123" target="_blank">HackerRank Certification in Basic Python</a></li>
-  <li>🔹 <a href="https://www.technoindiauniversity.ac.in" target="_blank">Participation Certificate from Techno India University</a></li>
-  <li>🔹 <a href="https://www.yourachievementlink.com" target="_blank">Runners's up JIS Samman Kabaddi Tournament</a></li>
-</ul>*/
+
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
