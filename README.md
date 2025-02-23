@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm SRIKANTA NAYEK</h1>
 <h3 align="center">A passionate Full Stack Web Developer and love learning from youtube</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/pudgypenguins-no-idea-i-have-what-im-doing-25UxpWoNBu8nOtURm9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asto329&label=Profile%20views&color=0e75b6&style=flat" alt="asto329" /> </p>
 
