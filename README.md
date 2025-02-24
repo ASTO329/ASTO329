@@ -1,4 +1,4 @@
-# my-portfolio
+# My-Portfolio
 ![logo](https://github.com/ASTO329/my-portfolio/blob/main/github.gif)
 
 <h1 align="center">Hi 👋, I'm SRIKANTA NAYEK</h1>
