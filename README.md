@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Website development**
 - 💬 Ask me about **JavaScript,Html, Java, Python**
 - 📫 How to reach me: **Srikantanayek25@gmail.com**
-- visit my Portfolio website: https://asto329.github.io/Srikanta.github.io/
+- 🖥️ visit my Portfolio website: https://asto329.github.io/Srikanta.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
