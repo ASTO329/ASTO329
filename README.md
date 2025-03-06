@@ -72,7 +72,7 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asto329&show_icons=true&locale=en" alt="asto329" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asto329&show_icons=true&locale=en&layout=compact" alt="asto329" />
+  
 </p>
 
 <h3 align="center">Recent Activity:</h3>
@@ -87,5 +87,5 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
 
 <h3 align="center">Languages & Frameworks:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asto329&layout=compact&hide=html,css" alt="Asto329" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asto329&show_icons=true&locale=en&layout=compact" alt="asto329" />
 </p>
