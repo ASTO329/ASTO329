@@ -87,5 +87,5 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
 
 <h3 align="center">Languages & Frameworks:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asto329&layout=compact&hide=html,css" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asto329&layout=compact&hide=html,css" alt="Asto329" />
 </p>
