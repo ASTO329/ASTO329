@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm Srikanta, a full-time full-stack developer 👨‍💻 </div>  
 
+<div align="center">Generated using <a href="https://profilinator.asto329/" target="_blank">Github Profilinator</a></div>
 
 - 🔭 I’m currently looking for a job 
 
@@ -103,4 +104,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.asto329/" target="_blank">Github Profilinator</a></div>
+
