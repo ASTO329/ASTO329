@@ -4,8 +4,10 @@
 
 
 ### <div align="center">I'm Srikanta, a full-time full-stack developer 👨‍💻 </div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=asto329&&style=flat-square" align="center" />
+</div>  
 
-<div align="center">Generated using <a href="https://profilinator.asto329/" target="_blank">Github Profilinator</a></div>
 
 - 🔭 I’m currently looking for a job 
 
@@ -97,10 +99,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=asto329&&style=flat-square" align="center" />
-</div>  
-
+<div align="center">Generated using <a href="https://profilinator.asto329/" target="_blank">Github Profilinator</a></div>
 <br />
 
 ----
