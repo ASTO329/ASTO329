@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Srikanta Nayek👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+[![Linkedin Badge](https://img.shields.io/badge/-Srikanta Nayek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Srikanta Nayek/)](https://www.linkedin.com/in/srikanta-nayek-87b446259/)
 [![Gmail Badge](https://img.shields.io/badge/-srikantanayek25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srikantanayek25@gmail.com)](mailto:srikantanayek25@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
