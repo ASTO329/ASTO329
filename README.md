@@ -1,5 +1,5 @@
 # My-Portfolio
-<p align="center"> <img src="https://github.com/ASTO329/my-portfolio/blob/main/coding.gif" alt="asto329" height="400px" width="900px"/> </p>
+<p align="center"> <img src="https://github.com/ASTO329/ASTO329/blob/main/README/coding.gif" alt="asto329" height="400px" width="900px"/> </p>
 
 <h1 align="center">Hi 👋, I'm SRIKANTA NAYEK</h1>
 <h3 align="center">A passionate Full Stack Web Developer and love learning from youtube</h3>
