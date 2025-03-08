@@ -76,8 +76,7 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
   <!-- Top Languages Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asto329&show_icons=true&locale=en" alt="asto329" />
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asto329" alt="srikanta GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
-  <div/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asto329" alt="srikanta GitHub Streak" style="object-fit: cover;"/>
 </p>
 
 <h3 align="center">Recent Activity:</h3>
