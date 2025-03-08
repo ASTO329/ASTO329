@@ -1,5 +1,5 @@
 # My-Portfolio
-![logo](https://github.com/ASTO329/my-portfolio/blob/main/coding.gif)
+<p align="center"> <img src="https://github.com/ASTO329/my-portfolio/blob/main/coding.gif" alt="asto329" height="600px" width="900px"/> </p>
 
 <h1 align="center">Hi 👋, I'm SRIKANTA NAYEK</h1>
 <h3 align="center">A passionate Full Stack Web Developer and love learning from youtube</h3>
@@ -68,15 +68,15 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
 
 <h3 align="left">Achievements & Certifications:</h3>
 
-
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <p align="center">
   <!---->
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
+<a style="display: flex; justify-content: space-between; align-items: stretch;">
   <!-- Top Languages Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asto329&show_icons=true&locale=en" alt="asto329" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asto329&show_icons=true&locale=en" alt="asto329" width="500"/>
+  <br>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asto329" alt="srikanta GitHub Streak" style="object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asto329" alt="srikanta GitHub Streak" style="object-fit: cover;" width="500"/>
 </p>
 
 <h3 align="center">Recent Activity:</h3>
@@ -91,5 +91,5 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
 
 <h3 align="center">Languages & Frameworks:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asto329&show_icons=true&locale=en&layout=compact" alt="asto329" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asto329&show_icons=true&locale=en&layout=compact" alt="asto329" width="400" />
 </p>
