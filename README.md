@@ -1,5 +1,5 @@
 # My-Portfolio
-![logo](https://github.com/ASTO329/my-portfolio/blob/main/mario-working.gif)
+![logo](https://github.com/ASTO329/my-portfolio/blob/main/coding.gif)
 
 <h1 align="center">Hi 👋, I'm SRIKANTA NAYEK</h1>
 <h3 align="center">A passionate Full Stack Web Developer and love learning from youtube</h3>
