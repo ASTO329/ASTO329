@@ -97,6 +97,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=asto329&show_icons=true&count_private=true" align="center" /></div>  
 
+ <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=asto329" alt="srikanta GitHub Streak" style="object-fit: cover;" width="500"/></div>
 <br/>  
 
 <div align="center">Generated using <a href="https://profilinator.asto329/" target="_blank">Github Profilinator</a></div>
