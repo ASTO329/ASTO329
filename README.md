@@ -91,5 +91,8 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
 
 <h3 align="center">Languages & Frameworks:</h3>
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asto329" alt="srikanta GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asto329&show_icons=true&locale=en&layout=compact" alt="asto329" width="400" />
 </p>
