@@ -86,7 +86,7 @@ href="https://leetcode.com/u/ASTO329/" target="blank"><img align="center" src="h
 
 <h3 align="center">Contribution Graph:</h3>
 <p align="center">
-  <img align="center" src="https://github.com/asto329/asto329/blob/main/contributions.svg" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asto329" alt="srikanta GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
 </p>
 
 <h3 align="center">Languages & Frameworks:</h3>
